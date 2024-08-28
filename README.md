@@ -13,7 +13,8 @@ def print_Dawinan():
     |___/<___||__/_/ |_||_|_|<___||_|_|
     
     
-    """
+   
+"""
     print(Dawinan)
 
 if __name__ == "__main__":
